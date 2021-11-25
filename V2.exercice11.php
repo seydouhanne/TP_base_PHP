@@ -13,3 +13,5 @@ for($i=2;$i<=$p;$i++)
 
 echo"Dans l'ordre,une chance sur".$X."de gagner";
 echo"Dans l'ordre,une chance sur".$X/$Y."de gagner";
+
+?>
