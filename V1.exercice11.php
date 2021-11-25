@@ -23,3 +23,5 @@ for($i=2;$i<=$n-$p;$i++)
 }
 echo("Dans l'ordre,une chance sur ".$num/$X."de gagner\n");
 echo("Dans le desordre,une chance sur ".$num/$Y."de gagner\n");
+
+?>
